@@ -1,0 +1,59 @@
+{
+  "2504.17833v2": {
+    "title": "The Role of Open-Source LLMs in Shaping the Future of GeoAI",
+    "authors": [
+      "Xiao Huang",
+      "Zhengzhong Tu",
+      "Xinyue Ye",
+      "Michael Goodchild"
+    ],
+    "summary": "Large Language Models (LLMs) are transforming geospatial artificial\nintelligence (GeoAI), offering new capabilities in data processing, spatial\nanalysis, and decision support. This paper examines the open-source paradigm's\ncritical role in this transformation. While proprietary LLMs offer\naccessibility, they often limit the customization, interoperability, and\ntransparency vital for specialized geospatial tasks. Conversely, open-source\nalternatives significantly advance Geographic Information Science (GIScience)\nby fostering greater adaptability, reproducibility, and community-driven\ninnovation. Open frameworks empower researchers to tailor solutions, integrate\ncutting-edge methodologies (e.g., reinforcement learning, advanced spatial\nindexing), and align with FAIR (Findable, Accessible, Interoperable, and\nReusable) principles. However, the growing reliance on any LLM necessitates\ncareful consideration of security vulnerabilities, ethical risks, and robust\ngovernance for AI-generated geospatial outputs. This paper argues that\nGIScience advances best not through a single model type, but by cultivating a\ndiverse, interoperable ecosystem combining open-source foundations for\ninnovation, custom geospatial models, and interdisciplinary collaboration. By\ncritically evaluating the opportunities and challenges of open-source LLMs\nwithin the broader GeoAI landscape, this work contributes to a thorough\ndiscourse on leveraging LLMs to effectively advance spatial research, policy,\nand decision-making in an equitable, sustainable, and scientifically rigorous\nmanner.",
+    "pdf_url": "http://arxiv.org/pdf/2504.17833v2",
+    "published": "2025-04-24"
+  },
+  "2310.12989v1": {
+    "title": "Enhancing Health Data Interoperability with Large Language Models: A FHIR Study",
+    "authors": [
+      "Yikuan Li",
+      "Hanyin Wang",
+      "Halid Yerebakan",
+      "Yoshihisa Shinagawa",
+      "Yuan Luo"
+    ],
+    "summary": "In this study, we investigated the ability of the large language model (LLM)\nto enhance healthcare data interoperability. We leveraged the LLM to convert\nclinical texts into their corresponding FHIR resources. Our experiments,\nconducted on 3,671 snippets of clinical text, demonstrated that the LLM not\nonly streamlines the multi-step natural language processing and human\ncalibration processes but also achieves an exceptional accuracy rate of over\n90% in exact matches when compared to human annotations.",
+    "pdf_url": "http://arxiv.org/pdf/2310.12989v1",
+    "published": "2023-09-19"
+  },
+  "2506.23978v2": {
+    "title": "LLM Agents Are the Antidote to Walled Gardens",
+    "authors": [
+      "Samuele Marro",
+      "Philip Torr"
+    ],
+    "summary": "While the Internet's core infrastructure was designed to be open and\nuniversal, today's application layer is dominated by closed, proprietary\nplatforms. Open and interoperable APIs require significant investment, and\nmarket leaders have little incentive to enable data exchange that could erode\ntheir user lock-in. We argue that LLM-based agents fundamentally disrupt this\nstatus quo. Agents can automatically translate between data formats and\ninteract with interfaces designed for humans: this makes interoperability\ndramatically cheaper and effectively unavoidable. We name this shift universal\ninteroperability: the ability for any two digital services to exchange data\nseamlessly using AI-mediated adapters. Universal interoperability undermines\nmonopolistic behaviours and promotes data portability. However, it can also\nlead to new security risks and technical debt. Our position is that the ML\ncommunity should embrace this development while building the appropriate\nframeworks to mitigate the downsides. By acting now, we can harness AI to\nrestore user freedom and competitive markets without sacrificing security.",
+    "pdf_url": "http://arxiv.org/pdf/2506.23978v2",
+    "published": "2025-06-30"
+  },
+  "2503.04596v1": {
+    "title": "The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy",
+    "authors": [
+      "Xinyi Hou",
+      "Yanjie Zhao",
+      "Haoyu Wang"
+    ],
+    "summary": "Large Language Model (LLM) applications, including LLM app stores and\nautonomous agents, are shaping the future of AI ecosystems. However, platform\nsilos, fragmented hardware integration, and the absence of standardized\ninterfaces limit scalability, interoperability, and resource efficiency. While\nLLM app stores democratize AI, their closed ecosystems restrict modular AI\nreuse and cross-platform portability. Meanwhile, agent-based frameworks offer\nflexibility but often lack seamless integration across diverse environments.\nThis paper envisions the future of LLM applications and proposes a three-layer\ndecoupled architecture grounded in software engineering principles such as\nlayered system design, service-oriented architectures, and hardware-software\nco-design. This architecture separates application logic, communication\nprotocols, and hardware execution, enhancing modularity, efficiency, and\ncross-platform compatibility. Beyond architecture, we highlight key security\nand privacy challenges for safe, scalable AI deployment and outline research\ndirections in software and security engineering. This vision aims to foster\nopen, secure, and interoperable LLM ecosystems, guiding future advancements in\nAI applications.",
+    "pdf_url": "http://arxiv.org/pdf/2503.04596v1",
+    "published": "2025-03-06"
+  },
+  "2406.12665v3": {
+    "title": "CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis",
+    "authors": [
+      "Saranya Venkatraman",
+      "Nafis Irtiza Tripto",
+      "Dongwon Lee"
+    ],
+    "summary": "The rise of unifying frameworks that enable seamless interoperability of\nLarge Language Models (LLMs) has made LLM-LLM collaboration for open-ended\ntasks a possibility. Despite this, there have not been efforts to explore such\ncollaborative writing. We take the next step beyond human-LLM collaboration to\nexplore this multi-LLM scenario by generating the first exclusively\nLLM-generated collaborative stories dataset called CollabStory. We focus on\nsingle-author to multi-author (up to 5 LLMs) scenarios, where multiple LLMs\nco-author stories. We generate over 32k stories using open-source\ninstruction-tuned LLMs. Further, we take inspiration from the PAN tasks that\nhave set the standard for human-human multi-author writing tasks and analysis.\nWe extend their authorship-related tasks for multi-LLM settings and present\nbaselines for LLM-LLM collaboration. We find that current baselines are not\nable to handle this emerging scenario. Thus, CollabStory is a resource that\ncould help propel an understanding as well as the development of new techniques\nto discern the use of multiple LLMs. This is crucial to study in the context of\nwriting tasks since LLM-LLM collaboration could potentially overwhelm ongoing\nchallenges related to plagiarism detection, credit assignment, maintaining\nacademic integrity in educational settings, and addressing copyright\ninfringement concerns. We make our dataset and code available at\nhttps://github.com/saranya-venkatraman/CollabStory.",
+    "pdf_url": "http://arxiv.org/pdf/2406.12665v3",
+    "published": "2024-06-18"
+  }
+}

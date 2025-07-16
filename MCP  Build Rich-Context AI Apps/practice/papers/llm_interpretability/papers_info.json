@@ -1,0 +1,27 @@
+{
+  "2412.07992v3": {
+    "title": "Concept Bottleneck Large Language Models",
+    "authors": [
+      "Chung-En Sun",
+      "Tuomas Oikarinen",
+      "Berk Ustun",
+      "Tsui-Wei Weng"
+    ],
+    "summary": "We introduce Concept Bottleneck Large Language Models (CB-LLMs), a novel\nframework for building inherently interpretable Large Language Models (LLMs).\nIn contrast to traditional black-box LLMs that rely on limited post-hoc\ninterpretations, CB-LLMs integrate intrinsic interpretability directly into the\nLLMs -- allowing accurate explanations with scalability and transparency. We\nbuild CB-LLMs for two essential NLP tasks: text classification and text\ngeneration. In text classification, CB-LLMs is competitive with, and at times\noutperforms, traditional black-box models while providing explicit and\ninterpretable reasoning. For the more challenging task of text generation,\ninterpretable neurons in CB-LLMs enable precise concept detection, controlled\ngeneration, and safer outputs. The embedded interpretability empowers users to\ntransparently identify harmful content, steer model behavior, and unlearn\nundesired concepts -- significantly enhancing the safety, reliability, and\ntrustworthiness of LLMs, which are critical capabilities notably absent in\nexisting models. Our code is available at\nhttps://github.com/Trustworthy-ML-Lab/CB-LLMs.",
+    "pdf_url": "http://arxiv.org/pdf/2412.07992v3",
+    "published": "2024-12-11"
+  },
+  "2402.01761v1": {
+    "title": "Rethinking Interpretability in the Era of Large Language Models",
+    "authors": [
+      "Chandan Singh",
+      "Jeevana Priya Inala",
+      "Michel Galley",
+      "Rich Caruana",
+      "Jianfeng Gao"
+    ],
+    "summary": "Interpretable machine learning has exploded as an area of interest over the\nlast decade, sparked by the rise of increasingly large datasets and deep neural\nnetworks. Simultaneously, large language models (LLMs) have demonstrated\nremarkable capabilities across a wide array of tasks, offering a chance to\nrethink opportunities in interpretable machine learning. Notably, the\ncapability to explain in natural language allows LLMs to expand the scale and\ncomplexity of patterns that can be given to a human. However, these new\ncapabilities raise new challenges, such as hallucinated explanations and\nimmense computational costs.\n  In this position paper, we start by reviewing existing methods to evaluate\nthe emerging field of LLM interpretation (both interpreting LLMs and using LLMs\nfor explanation). We contend that, despite their limitations, LLMs hold the\nopportunity to redefine interpretability with a more ambitious scope across\nmany applications, including in auditing LLMs themselves. We highlight two\nemerging research priorities for LLM interpretation: using LLMs to directly\nanalyze new datasets and to generate interactive explanations.",
+    "pdf_url": "http://arxiv.org/pdf/2402.01761v1",
+    "published": "2024-01-30"
+  }
+}

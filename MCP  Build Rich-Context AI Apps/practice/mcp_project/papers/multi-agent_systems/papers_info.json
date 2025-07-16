@@ -1,0 +1,21 @@
+{
+  "2406.13693v1": {
+    "title": "From Single Agent to Multi-Agent: Improving Traffic Signal Control",
+    "authors": [
+      "Maksim Tislenko",
+      "Dmitrii Kisilev"
+    ],
+    "summary": "Due to accelerating urbanization, the importance of solving the signal\ncontrol problem increases. This paper analyzes various existing methods and\nsuggests options for increasing the number of agents to reduce the average\ntravel time. Experiments were carried out with 2 datasets. The results show\nthat in some cases, the implementation of multiple agents can improve existing\nmethods. For a fine-tuned large language model approach there is small\nenhancement on all metrics.",
+    "pdf_url": "http://arxiv.org/pdf/2406.13693v1",
+    "published": "2024-06-19"
+  },
+  "1009.2998v1": {
+    "title": "Compact integral manifolds of differential systems",
+    "authors": [
+      "V. N. Gorbuzov"
+    ],
+    "summary": "The boundedness tests for the number of compact integral manifolds of\nautonomous ordinary differential systems, of autonomous total differential\nsystems, of linear systems of partial differential equations, of Pfaff systems\nof equations, and of systems of exterior differential equations are proved.",
+    "pdf_url": "http://arxiv.org/pdf/1009.2998v1",
+    "published": "2010-09-15"
+  }
+}

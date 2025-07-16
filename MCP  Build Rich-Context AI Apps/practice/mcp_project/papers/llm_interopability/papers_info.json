@@ -1,0 +1,66 @@
+{
+  "2504.05884v1": {
+    "title": "Endoscopic fiber-coupled diamond magnetometer for cancer surgery",
+    "authors": [
+      "A. J. Newman",
+      "S. M. Graham",
+      "C. J. Stephen",
+      "A. M. Edmonds",
+      "M. L. Markham",
+      "G. W. Morley"
+    ],
+    "summary": "Interoperative measurements using magnetic sensors is a valuable technique in\ncancer surgery for finding magnetic tracers. Here we present a fiber-coupled\nnitrogen-vacancy (N-V) center magnetometer capable of detecting iron oxide\nsuspension (MagTrace from Endomagnetics Ltd.) used in breast cancer surgeries.\nDetection of an iron mass as low as 0.56~mg has been demonstrated, 100 times\nless than that of a recommended dose at a maximum distance of 5.8~mm. Detection\nof an iron concentration as low as 2.8 mg/ml has also been demonstrated, 20\ntimes less than a recommended dose. The maximum working distance from the\nsensor can be as large as 14.6~mm for higher concentrations. The sensor head\nhas a maximum diameter of 10~mm which would allow it to be used for endoscopy,\nlaparoscopy and interoperative surgery.",
+    "pdf_url": "http://arxiv.org/pdf/2504.05884v1",
+    "published": "2025-04-08"
+  },
+  "0711.2629v1": {
+    "title": "Theoretical models in the Virtual Observatory",
+    "authors": [
+      "Carlos Rodrigo",
+      "Raul Gutierrez",
+      "Enrique Solano",
+      "Miguel Cervino"
+    ],
+    "summary": "Although full interoperativity between theoretical and observational data in\nthe framework of the Virtual Observatory would be a very desirable achievement,\nthe current status of VO offers few approaches to handle theoretical models.\nTSAP (Theoretical Spectra Access Protocol) has been proposed as a tool to fill\nthis void, providing a simple scheme to easily operate with th is kind of data.\nTSAP is useful not only for synthetic spectra but also for other types of\ntheoretical data. As an example we show an Isochrone and Evolutionary Tracks\nserver using TSAP. Finally, we pay special attention to the correct treatment\nof the credits an important issue in the field of theoretical models.",
+    "pdf_url": "http://arxiv.org/pdf/0711.2629v1",
+    "published": "2007-11-16"
+  },
+  "1802.07982v1": {
+    "title": "Shared Services Center for E-Government Policy",
+    "authors": [
+      "Flavio Corradini",
+      "Lucio Forastieri",
+      "Alberto Polzonetti",
+      "Oliviero Riganelli",
+      "Andrea Sergiacomi"
+    ],
+    "summary": "It is a general opinion that applicative cooperation represents a useful\nvehicle for the development of e-government. At the architectural level,\nsolutions for applicative cooperation are quite stable, but organizational and\nmethodological problems prevent the expected and needed development of\ncooperation among different administrations. Moreover, the introduction of the\ndigital government requires a considerable involvement of resources that can be\nunsustainable for small public administrations. This work shows how the above\nmentioned problems can be (partially) solved with the introduction of a Shared\nServices Center (SSC).",
+    "pdf_url": "http://arxiv.org/pdf/1802.07982v1",
+    "published": "2018-02-22"
+  },
+  "0902.4781v1": {
+    "title": "Implementation of Multipath and Multiple Description Coding in OLSR",
+    "authors": [
+      "Jiazi Yi",
+      "Eddy Cizeron",
+      "Salima Hamma",
+      "Beno\u00eet Parrein",
+      "Pascal Lesage"
+    ],
+    "summary": "In this paper we discussed the application and the implementation of\nmultipath routing and multiple description coding (MDC) extension of OLSR,\ncalled MP-OLSR. It is based on the link state algorithm and employs periodic\nexchange of messages to maintain topology information of the networks. In the\nmean time, it updates the routing table in an on-demand scheme and forwards the\npackets in multiple paths which have been determined at the source. If a link\nfailure is detected, the algorithm recovers the route automatically. Concerning\nthe instability of the wireless networks, the multiple description coding is\nused to improve reliability of the network transmission, and several methods\nare proposed to allocate the redundancy in different paths. The simulation in\nNS2 shows that the new protocol can effectively improve the performance of the\nnetworks. The implementation of MP-OLSR is also proposed in the end.",
+    "pdf_url": "http://arxiv.org/pdf/0902.4781v1",
+    "published": "2009-02-27"
+  },
+  "2202.08228v2": {
+    "title": "Performance of QUIC Implementations Over Geostationary Satellite Links",
+    "authors": [
+      "Sebastian Endres",
+      "J\u00f6rg Deutschmann",
+      "Kai-Steffen Hielscher",
+      "Reinhard German"
+    ],
+    "summary": "QUIC was recently standardized as RFC 9000, but the performance of QUIC over\ngeostationary satellite links is problematic due to the non-applicability of\nPerformance Enhancing Proxies. As of today, there are more than a dozen of\ndifferent QUIC implementations. So far performance evaluations of QUIC over\nsatellite links were limited to specific QUIC implementations. By deploying a\nmodified version of the IETF QUIC-Interop-Runner, this paper evaluates the\nperformance of multiple QUIC implementations over multiple geostationary\nsatellite links. This includes two emulated ones (with and without packet loss)\nand two real ones. The results show that the goodput achieved with QUIC over\ngeostationary satellite links is very poor in general, and especially poor when\nthere is packet loss. Some implementations fail completely and the performance\nof the other implementations varies greatly. The performance depends on both\nclient and server implementation.",
+    "pdf_url": "http://arxiv.org/pdf/2202.08228v2",
+    "published": "2022-02-16"
+  }
+}
